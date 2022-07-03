@@ -5,4 +5,4 @@
 - :unlock: My near-future plans include: TypeScript, advanced SASS concepts, MERN stack, React native...
 - :mag_right: Someday I hope to try myself at .Net.
 
-LinkedIn: # https://www.linkedin.com/in/arminas-strolys-752519124/
+LinkedIn: https://www.linkedin.com/in/arminas-strolys-752519124/
