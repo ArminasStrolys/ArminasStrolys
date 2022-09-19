@@ -11,3 +11,5 @@ Some of my bigger projects deployed on netlify for a quick overview. (warning, s
 
 1) https://beauty-studio-lor.netlify.app/
 2) https://receipt-app-09-11.netlify.app/
+3) https://listtypeapp1.netlify.app
+4) https://listtypeapp2.netlify.app
