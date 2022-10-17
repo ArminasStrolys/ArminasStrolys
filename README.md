@@ -9,8 +9,9 @@ LinkedIn: https://www.linkedin.com/in/arminas-strolys-752519124/
 
 Some of my bigger projects deployed on netlify for a quick overview. (warning, some minor elements (exmp. padding values) may work inappropriately due to build conversion on that site.)
 
-1) https://photo-portfolio-as.netlify.app/
-2) https://beauty-studio-lor.netlify.app
-3) https://receipt-app-09-11.netlify.app
-4) https://list-app-1.netlify.app
-5) https://list-app-2.netlify.app
+1) https://hotel-searcher-app.netlify.app/
+2) https://photo-portfolio-as.netlify.app/
+3) https://beauty-studio-lor.netlify.app
+4) https://receipt-app-09-11.netlify.app
+5) https://list-app-1.netlify.app
+6) https://list-app-2.netlify.app
