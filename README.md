@@ -1,7 +1,7 @@
 ### Well hello there! 👋
 
 - :star: I started my path as a front-end programmer at 2022-01-03 in "Baltic Institute of Technology" and graduated at 2022-06-27.
-- :triangular_flag_on_post: At this time I am searching for front-end internship or entry level position.
+- :triangular_flag_on_post: At this time ~~I am searching for front-end internship or entry level position.~~ I'm an intern at DevBridge.
 - :unlock: My near-future plans include: TypeScript, React native, Redux, MERN stack...
 - :mag_right: Someday I hope to try myself at .Net.
 
