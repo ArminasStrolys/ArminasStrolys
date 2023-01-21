@@ -1,9 +1,9 @@
 ### Well hello there! 👋
 
 - :star: I started my path as a front-end programmer at 2022-01-03 in "Baltic Institute of Technology" and graduated at 2022-06-27.
-- :triangular_flag_on_post: At this time ~~I am searching for front-end internship or entry level position.~~ I'm an intern at DevBridge.
-- :unlock: My near-future plans include: TypeScript, React native, Redux, MERN stack...
-- :mag_right: Someday I hope to try myself at .Net.
+- :star: At 2022-10-26 I've got accepted into Devbridge (Cognizant Softvision) sourcery academy for front-end developers and graduated at 2023-01-19.
+- :unlock: In the near future I want to understand core concepts of Typescript and deepen my understanding of Javascript, React. Will be getting more into React's ecosystem.
+- :triangular_flag_on_post: At this time I am searching for front-end junior level position.
 
 LinkedIn: https://www.linkedin.com/in/arminas-strolys-752519124/
 
