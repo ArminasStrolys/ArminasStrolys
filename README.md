@@ -16,3 +16,7 @@ Some of my bigger projects deployed on netlify for a quick overview.
 5) https://receipt-app-09-11.netlify.app
 6) https://list-app-1.netlify.app
 7) https://list-app-2.netlify.app
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
